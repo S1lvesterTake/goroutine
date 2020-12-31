@@ -13,5 +13,5 @@ func main() {
 		fmt.Println(element)
 	}
 
-	channel <- 3
+	channel <- 3 //comment this to avoid error
 }
